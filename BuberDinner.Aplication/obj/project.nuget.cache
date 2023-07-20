@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/RAWqmtRt+LcgtZT/QccF9Dhfkc1U1+OGmR4ZLNWB91D5HoahQeDcvukrDzlmPBjgKhsH06xshvPXFiCKE1Q2w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Julián Rodríguez\\Documents\\Cursos Programación\\2-C#-Youtube\\BuberDinner\\BuberDinner.Aplication\\BuberDinner.Aplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Julián Rodríguez\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
